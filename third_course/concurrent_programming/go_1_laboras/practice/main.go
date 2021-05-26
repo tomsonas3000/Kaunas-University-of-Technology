@@ -68,7 +68,6 @@ func WorkWithMonitor(monitor *Monitor, students []Student, resultsMonitor *Monit
 		if isDone && monitor.CurrentSize == 0 {
 			return
 		}
-		fmt.Printf("DONE %v MONITOR CURRENT SIZE NAXUI %v", monitor.NuDone, monitor.CurrentSize)
 		var student = monitor.Remove(wg)
 		AddToResultsMonitor(student)
 		x++
