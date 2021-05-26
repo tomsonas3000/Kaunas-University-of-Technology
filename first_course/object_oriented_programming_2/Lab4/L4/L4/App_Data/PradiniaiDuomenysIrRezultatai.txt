@@ -1,0 +1,37 @@
+Pradiniai duomenys
+Vertybių duomenys:
+----------------------------------------------
+|Pavadinimas         |Kiekis |Kaina          |
+----------------------------------------------
+|Vertybe1            |      1|           1000|
+|Vertybe2            |      2|        1000.89|
+|Vertybe3            |      5|         120.33|
+|Vertybe4            |      4|         220.00|
+|Vertybe1            |      2|            990|
+|Vertybe2            |      4|         100.88|
+|Vertybe33           |      5|         120.33|
+|Vertybe44           |      4|         220.00|
+|Vertybe111          |      1|           1000|
+|Vertybe222          |      2|        1000.88|
+|Vertybe1            |      3|         120.33|
+|Vertybe2            |      4|         220.00|
+|Vertybe1111         |      1|           1000|
+|Vertybe1            |      4|          12.33|
+|Vertybe4444         |      4|         220.00|
+|Vertybe2            |      4|         100.55|
+|Vertybe2            |      2|        1000.88|
+|Vertybe33333        |      5|         120.33|
+|Vertybe44444        |      4|         220.00|
+|xVertybe2           |      4|         100.55|
+|xVertybe2           |      2|        1000.88|
+|xVertybe33333       |      5|         120.33|
+|xVertybe44444       |      4|         220.00|
+----------------------------------------------
+Užsakymų duomenys:
+-------------------------
+|Vardas         |Kiekis |
+-------------------------
+|Vertybe1       |      8|
+|Vertybe2       |     15|
+|xVertybe2      |      2|
+-------------------------

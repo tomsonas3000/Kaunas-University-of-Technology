@@ -1,0 +1,3 @@
+﻿Vertybe1,8
+Vertybe2,15
+xVertybe2,2

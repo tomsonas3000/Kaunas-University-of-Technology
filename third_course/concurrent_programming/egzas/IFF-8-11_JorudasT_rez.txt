@@ -1,0 +1,40 @@
+Initial data:
+Index  Name      Shot taken  Pointer per game
+-----  --------  ----------  ----------------
+1      Player1   5.00        0.95            
+2      Player2   7.00        0.65            
+3      Player3   13.00       0.01            
+4      Player4   14.00       0.13            
+5      Player5   2.00        0.95            
+6      Player6   6.00        0.13            
+7      Player7   4.00        0.01            
+8      Player8   5.00        0.65            
+9      Player9   7.00        0.43            
+10     Player10  8.00        0.95            
+11     Player11  10.00       0.13            
+12     Player12  1.00        0.01            
+13     Player13  2.00        0.65            
+14     Player14  5.00        0.32            
+15     Player15  3.00        0.85            
+16     Player16  1.00        0.95            
+17     Player17  3.00        0.15            
+18     Player18  3.00        0.77            
+19     Player19  3.00        0.43            
+20     Player20  2.00        0.65            
+21     Player21  5.00        0.32            
+22     Player22  3.00        0.85            
+23     Player23  2.00        0.11            
+24     Player24  3.00        0.13            
+25     Player25  2.00        0.01            
+26     Player26  2.00        0.95            
+27     Player27  6.00        0.13            
+28     Player28  4.00        0.01            
+29     Player29  5.00        0.65            
+30     Player30  5.00        0.95            
+31     Player31  7.00        0.65            
+32     Player32  13.00       0.01            
+33     Player33  14.00       0.13            
+
+Results:
+
+

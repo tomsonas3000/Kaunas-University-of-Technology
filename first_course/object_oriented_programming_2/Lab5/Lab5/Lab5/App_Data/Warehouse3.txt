@@ -1,0 +1,4 @@
+﻿Vertybe111,1,1000
+Vertybe222,2,1000.88
+Vertybe1,3,120.33
+Vertybe2,4,220.00

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LD_5.Spalv">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABAAEAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Spalva.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD_5.SpalvuSarasas">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="LD_5.SpalvuSarasas.Mazgas" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SpalvuSarasas.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAhEAAAAAAAAAIAAAAgAAEAIAAAAAAAAA=</HashCode>
+      <FileName>SpalvuSarasas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD_5.Taskas">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAEAAAAAAAAAAAAAABAAAAAgAAgBQA=</HashCode>
+      <FileName>Taskas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD_5.TaskuSarasas">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="LD_5.TaskuSarasas.Mazgas" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TaskuSarasas.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAhEAAAAAAAMAIAAAAgAAEAIAAAAAAAAQ=</HashCode>
+      <FileName>TaskuSarasas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD_5.Trikampis">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAgAAAAAAAAEAEgAAAEAEAAAAACIAABAAAAAAgByA=</HashCode>
+      <FileName>Trikampis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD_5.TrikampiuSarasas">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="LD_5.TrikampiuSarasas.Mazgas" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TrikampiuSarasas.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAhEAAAAAAAAAIAAEAgAAEAIAAAAAAAAQ=</HashCode>
+      <FileName>TrikampiuSarasas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD_5.Lab2">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAAAgAAAABAAAAAAAQBgBoAEQYAAAgAAAECIQAAA=</HashCode>
+      <FileName>Lab2.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

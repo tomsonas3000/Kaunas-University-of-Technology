@@ -1,0 +1,10 @@
+0 5 raudona
+-2 5 raudona
+-2 -2 geltona
+2 -2 geltona
+2 -5 raudona
+4 5 raudona
+-4 5 geltona
+0 5 geltona
+5 15 geltona
+-5 15 geltona

@@ -1,0 +1,45 @@
+Initial data
+Item data:
+------------------------------------------------------------
+|Name                |Amount    |Price          | Warehouse|
+------------------------------------------------------------
+|Vertybe1            |         1|           1000|Warehouse0|
+|Vertybe2            |         2|        1000.89|Warehouse0|
+|Vertybe3            |         5|         120.33|Warehouse0|
+|Vertybe4            |         4|         220.00|Warehouse0|
+|Vertybe1            |         2|            990|Warehouse1|
+|Vertybe2            |         4|         100.88|Warehouse1|
+|Vertybe33           |         5|         120.33|Warehouse1|
+|Vertybe44           |         4|         220.00|Warehouse1|
+|Vertybe111          |         1|           1000|Warehouse2|
+|Vertybe222          |         2|        1000.88|Warehouse2|
+|Vertybe1            |         3|         120.33|Warehouse2|
+|Vertybe2            |         4|         220.00|Warehouse2|
+|Vertybe1111         |         1|           1000|Warehouse3|
+|Vertybe1            |         4|          12.33|Warehouse3|
+|Vertybe4444         |         4|         220.00|Warehouse3|
+|Vertybe2            |         4|         100.55|Warehouse4|
+|Vertybe2            |         2|        1000.88|Warehouse4|
+|Vertybe33333        |         5|         120.33|Warehouse4|
+|Vertybe44444        |         4|         220.00|Warehouse4|
+|xVertybe2           |         4|         100.55|Warehouse5|
+|xVertybe2           |         2|        1000.88|Warehouse5|
+|xVertybe33333       |         5|         120.33|Warehouse5|
+|xVertybe44444       |         4|         220.00|Warehouse5|
+------------------------------------------------------------
+Užsakymų duomenys:
+----------------------------
+|Name           |Amount    |
+----------------------------
+|Vertybe1       |         8|
+|Vertybe2       |        15|
+|xVertybe2      |         2|
+----------------------------
+Results:
+Item data:
+-------------------------------------------------
+|Name                |Amount    |Price          |
+-------------------------------------------------
+|Vertybe1            |         2|            990|
+-------------------------------------------------
+Price, that needs to be paid: 1980

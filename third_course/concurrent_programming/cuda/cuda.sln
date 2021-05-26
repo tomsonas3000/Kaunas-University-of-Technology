@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cuda", "cuda\cuda.vcxproj", "{CF010504-B811-4625-BAC7-86FC8C5EE139}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E9303104-07D6-4F06-B7FE-B4D48487E9B7}"
+	ProjectSection(SolutionItems) = preProject
+		IFF-8-11_JorudasT_L3_dat_2.txt = IFF-8-11_JorudasT_L3_dat_2.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF010504-B811-4625-BAC7-86FC8C5EE139}.Debug|x64.ActiveCfg = Debug|x64
+		{CF010504-B811-4625-BAC7-86FC8C5EE139}.Debug|x64.Build.0 = Debug|x64
+		{CF010504-B811-4625-BAC7-86FC8C5EE139}.Release|x64.ActiveCfg = Release|x64
+		{CF010504-B811-4625-BAC7-86FC8C5EE139}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA2108A1-EA01-4713-8380-35D914196E62}
+	EndGlobalSection
+EndGlobal
